@@ -1,4 +1,7 @@
-{
+[{
   "user": "usuario",
   "pass": "password",
-}
+},
+  "user": "usuario2",
+  "pass": "password2"
+]
