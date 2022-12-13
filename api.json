@@ -1,35 +1,35 @@
 [{
-        "precio": 750.000,
+        "precio": 750000,
         "id": 1,
         "title": "Nike Air Jordan I",
         "thumbnailUrl": "https://github.com/Cristhian20V/carrito-de-compras/blob/main/img1.jpg?raw=true"
     },
     {
-        "precio": 380.000,
+        "precio": 380000,
         "id": 2,
         "title": "Adidas Deerupt Runner",
         "thumbnailUrl": "https://github.com/Cristhian20V/carrito-de-compras/blob/main/img5.jpg?raw=true"
     },
     {
-        "precio": 758.964,
+        "precio": 758964,
         "id": 3,
         "title": "Bottes Timberland Male",
         "thumbnailUrl": "https://github.com/Cristhian20V/carrito-de-compras/blob/main/img3.jpg?raw=true"
     },
     {
-        "precio": 499.999,
+        "precio": 499999,
         "id": 4,
         "title": "Badgley Mischka",
         "thumbnailUrl": "https://github.com/Cristhian20V/carrito-de-compras/blob/main/img2.jpg?raw=true"
     },
     {
-        "precio": 460.000,
+        "precio": 460000,
         "id": 5,
         "title": "Bottes Timberland Female ",
         "thumbnailUrl": "https://github.com/Cristhian20V/carrito-de-compras/blob/main/img6.jpg?raw=true"
     },
     {
-        "precio": 999.999,
+        "precio": 900000,
         "id": 6,
         "title": "Adidas BAD BUNNY FORUM",
         "thumbnailUrl": "https://github.com/Cristhian20V/carrito-de-compras/blob/main/img10.png?raw=true"
